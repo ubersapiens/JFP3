@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{ page.title }}</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- Syntax highlighting CSS -->
+        <link rel="stylesheet" type="text/css" href="/css/syntax.css">
+        
+        <!-- CSS -->
+        <link rel="stylesheet" type="text/css" href="/css/styles.css">
+        
+        <!-- FONTS -->
+        <link href="http://fonts.googleapis.com/css?family=Raleway:100,200,700" rel="stylesheet" type="text/css">
+        
+        <!-- JS FILES. Including jQuery and LESS. -->
+
+    </head>
+    <body>
+      <div class="site">          
+        
+        <div class="profile">
+          <p id="name">JUAN FRANCISCO PARDINI</p>
+          <p id="title">digital blacksmith</p>          
+          
+          <div id="img-wrapper">
+            <img src="/images/profile.png">
+          </div>
+          
+          <div class="contact">
+            <a href="http://www.twitter.com/jfp_3" id="twitter"><img src="/images/twitter.png"></a>
+            <a href="mailto:jfpardini@gmail.com?subject=What's up!" id="gmail"><img src="/images/gmail.png"></a>
+          </div>  
+        </div>
+        
+        <div class="content">
+          <ul class="navigation">
+            <li>Home</li>
+            <li>Articles</li>
+            <li>Travels</li>
+            <li>Projects</li>
+            <li>About</li>
+          </ul>
+          {{ content }}
+        </div>
+      
+      </div>
+    </body>
+</html>
