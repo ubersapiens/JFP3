@@ -7,4 +7,3 @@ gem "thin"
 gem "jekyll-slim"
 gem "jekyll-less"
 gem "therubyracer"
-gem 'rack-jekyll', :git => 'https://github.com/adaoraul/rack-jekyll.git', :require => 'rack/jekyll'
