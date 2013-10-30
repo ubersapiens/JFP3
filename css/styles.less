@@ -6,11 +6,11 @@
 @red: #e74c3c;
 @green: #16a085;
 @yellow: #f1c40f;
-@light-gray: #bdc3c7;
+@light-gray: #d6d6d6;
 @gray: #34495e;
 @dark-red: #c0392b;
 @blue: #2980b9;
-@orange: #f39c12;
+@turquoise: #1abc9c;
 
 /*****************************************************************************/
 /*
@@ -19,10 +19,10 @@
 /*****************************************************************************/
 html, body, div.site {
   font-family: 'Raleway', sans-serif;
-  color: #FFF;
   height: 100%;
   margin: 0px;
   padding: 0px;
+  background-color: @light-gray
 }
 
 /*****************************************************************************/
@@ -31,21 +31,24 @@ html, body, div.site {
 /*
 /*****************************************************************************/
 div.profile {
-  display: block;
-  width:40%;
+  position: fixed;
+  color: #FFF;
+  width:35%%;
   float: left;
-  position: relative;
-  background-color: @blue;
+  background-color: #333;
   text-align: center;
   height: 100%;
   padding-top: 1px;
+  box-shadow: inset -10px 1px 18px -9px #000;
 
   p#name {
     font-size: 50px;
+    color: @turquoise;
   }
 
   p#title {
     font-size: 25px;
+    color: @light-gray;
   }
 
   div#img-wrapper {
@@ -54,7 +57,7 @@ div.profile {
       -moz-border-radius: 50%;
       border-radius: 50%;
       -khtml-border-radius: 50%;
-      border: 5px solid #FFF;
+      border: 5px solid @turquoise;
       margin-top:30px;
 
       img {
@@ -104,24 +107,96 @@ margin-top: 35px;
 div.content {
   display: block;
   width:60%;
+  padding: 0 3%;
   left: 100px;
   float: right;
-  background-color: @light-gray;
-  height: 100%;
+  background-color: #d6d6d6;
+  height: auto;
   padding-top: 1px;
-
-  table {
-    height: 100%;
-    width: 100%;
-    table-layout: fixed;
-    td {
-      width: 33%;
-      img {
-        width:280px;
-        height:250px;
+  color: #333;
+  
+  div.container {
+    height: auto;
+    
+    table {
+      height: 100%;
+      width: 100%;
+      table-layout: fixed;
+      td {
+        width: 33%;
+        img {
+          width:280px;
+          height:250px;
+        }
       }
+    }  
+  }
+}
+
+/*****************************************************************************/
+/*
+/* Posts Page
+/*
+/*****************************************************************************/
+
+#home {  
+  h1 { 
+    color: @turquoise;
+    font-size: 50px;
+    font-weight: 500;
+  }
+  
+  ul.posts {
+    font-size:25px;
+    list-style-type: none;
+    
+    li {
+      margin-left: -38px;
     }
-  }  
+    
+    span {
+      font-weight: bold;
+    }
+    
+    a {
+      text-decoration: none;
+      color: @turquoise;
+    }
+    
+  }
+}
+
+.container {
+  padding: 14px 0 0 50px;
+
+  h2 {
+    color: @turquoise;
+    font-size: 50px;
+    font-weight: 500;
+  }
+  
+  p {
+    font-size: 18px;
+    
+    &.meta {
+      font-size: 24px;
+    }
+  }
+  
+  a.back {
+    margin-left: 340px;
+    
+    img {
+      height: 80px;
+      width: auto;
+      display: block;
+      margin: auto;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+    }
+  }
 }
 
 /*****************************************************************************/
@@ -130,7 +205,30 @@ div.content {
 /*
 /*****************************************************************************/
 
-/* standard */
+.post {
+  font-size: 18px;
+  
+  img, iframe {
+    display:block; 
+    margin: auto; 
+    top: 0; 
+    left: 0; 
+    right: 0; 
+    bottom: 0;
+    border: 3px solid @turquoise;
+  }
+  
+  span#focus {
+    color: @turquoise;
+    font-weight: bold;
+  }
+  
+  a {
+    text-decoration:none;
+    color: @turquoise;
+  }
+}
+
 .post pre {
   color: black;
   border: 1px solid #ddd;

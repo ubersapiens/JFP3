@@ -14,7 +14,7 @@
         
         <!-- FONTS -->
         <link href="http://fonts.googleapis.com/css?family=Raleway:100,200,700" rel="stylesheet" type="text/css">
-        
+        <link href="http://fonts.googleapis.com/css?family=Oswald:700" rel="stylesheet" type="text/css">
         <!-- JS FILES. Including jQuery and LESS. -->
 
     </head>
@@ -26,7 +26,7 @@
           <p id="title">digital blacksmith</p>          
           
           <div id="img-wrapper">
-            <img src="/images/profile.png">
+            <a href="http://www.github.com/ubersapiens"><img src="/images/profile.png"></a>
           </div>
           
           <div class="contact">
@@ -36,14 +36,9 @@
         </div>
         
         <div class="content">
-          <ul class="navigation">
-            <li>Home</li>
-            <li>Articles</li>
-            <li>Travels</li>
-            <li>Projects</li>
-            <li>About</li>
-          </ul>
-          {{ content }}
+          <div class="container">
+            {{ content }}
+          </div>
         </div>
       
       </div>

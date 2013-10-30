@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Island hopping in San Blas"
+date:   2013-08-16 18:35:04
+categories: jekyll update
+---
+There's not just one, there are around 370. San Blas is an archipelago of islands in the Caribbean side of Panama, composed of nearly 400 small pieces of land ranging from the size of a room to the size of a Manhattan block. Kunas have controlled this entire floating territory for more than a century, applying Indian law as their jurisdictional magna carta. Getting to the islands can always be an adventure due to the weather conditions when crossing the isthmus from one ocean to the other, but a new highway and a tourism-friendly infrastructure are rapidly turning this isolated paradise into a mainstream for off the grid backpackers and catamaran-loving jetsetters. Waking up to this view is like getting a 1 day pass to heaven.
+
+You come here with 8 kilos in your bag, a tent and some survival food, and you can stay for a solid week living the islander life. Food can be one of the biggest pleasures in your world of temptation and desire, but some particular foods dwell in the realm of Aphrodite. Don't be surprised if you get a dish with a kilo of lobster, sea snails, mahi mahi and octopus, all freshly picked a few hours before and accompanied by a delicious coconut rice. If you go to any of the inhabited islands and ask a man above 30 how many children he has, chances are that he will probably have more than 10. Why? Because if you look at any of the big playboys in history, from Casanova to Clinton, they all ate tons of zinc (i.e. oysters, octopus). Zinc is a vasodilator and according to legend quite the natural stamina enhancer. So dropping your daily pesto pasta with chicken for a worker sized dish of assorted seafood could be a plus to your health.
+
+But eating needs to be accompanied by its corresponding relaxation time afterwards. These little sand spots are blessed with some of the most spectacular sceneries in the world, the freshest ocean breeze and numerous palm trees to tie your hammock. Life for the Kunas might be devoted to fishing, carpentry, net fixing and crafting molas, but resting is probably the one they practice the most. Being under the sun all day and spending the majority of your time in harmony with the elements, since it is usually you and no one else around you fishing or traveling, can be quite taxing. The nights are ideal for campers as the night sky will be like an IMAX screen, missing only the lines "In a galaxy far, far away...".
+
+Diving, fishing, surfing, treasure hunting. Whichever of those you like best, San Blas has the perfect off-the-beaten-path satisfaction. You can pick from the hollow barrels that haunt the Dutch territories in the far north to the turquoise clear waters with every fish in the Nemo cast. And yes, I said treasure hunting earlier. These particular side of the world is famous for being the graveyard of most of the Spanish Armada. Wooden galleons packed with golden goblets, iron cannons and the eroded cadavers of fearsome corsairs. A scuba mask and a tuba are all you need to immerse yourself in a world that only Jack Sparrow has been able to show us. Imagine the pearl-encrusted scimitars, the rum fueled adventures, the pirate underground and the hunt for the New World. Hit the islands, put on a skull cap and go find your treasure.
+
+Disconnection from the world is the name of the game.
+
+<img src="http://lightbulbmanifesto.files.wordpress.com/2012/12/san-blas-154.jpg?w=1024" style="height:500px; width:auto;">
