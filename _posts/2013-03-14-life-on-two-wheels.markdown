@@ -22,6 +22,6 @@ x factor ---> fun displacement vs potentially stressful
 
 Not only did I contemplate three different aspects of the commuting experience (distance, cost, comfort), but I concentrated on the most important ones. At least in a city where every minute counts. When you live in Geneva or in Panama you can take your time to do things because you know that on the other end, whoever you are meeting, they will be in the same M.O. as you. But the Big Ben is always ticking in Jolly Ole London. Health, fun and disconnecting a big from Big Brother come second to always being on the move and always being productive. And by that I don't just mean generating profits. On the other hand, it focuses more on always doing something, no couchlocking. Studying, going to an interview, drinking pints, watching football, meeting friends, attending an event, going to a concert, and the list goes on an on. What is the best way to put all those things left behind into the equation? Well quite simple. To get from one Opera House to the pub and from the coffee shop to the tech academy you need to move. Voila!
 
-Buy a bike. You will thank me later.
+<span id="focus">Buy a bike.</span> You will thank me later.
 
 <img src="http://lightbulbmanifesto.files.wordpress.com/2013/03/200907074.jpg?w=580" style="height:500px; width:auto;">

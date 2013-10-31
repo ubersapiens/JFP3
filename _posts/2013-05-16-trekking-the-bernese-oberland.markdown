@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Trekking the Bernese Oberland"
+date:   2013-05-16 18:35:04
+categories: jekyll update
+---
+I lived in Switzerland for two years and I still stand in reminiscence at its greatest treasure. No it wasn't MacGuyver's dream workplace, Swiss Army knife factories, or the Charlie and the Chocolate Factory kingdom, Lindt and Co. It was the topographic anomaly that they had as their backyard. Mountains surrounding the entire nation with everything from the Alps to the Jura to the Bernese Oberland. This last one is the crown jewel of this cuckoo clock maker's geography. Known to jet-setters as Interlaken and journeyed towards for its 'ashram-spa complexes' in the middle of mountainous snow-covered valleys. However, for those adrenaline junkies, the Bernese Oberland is home to a few Red Bullesque giants: the Eiger, the Jungfrau and the Lauterbrunnen valley.
+
+<img src="http://lightbulbmanifesto.files.wordpress.com/2012/11/img_0869.jpg" style="height:500px; width:auto;">
+
+No need to go extreme in any sense. A simple search for detached natural surroundings is exactly what you get when you head up the valley. Lauterbrunnen sits at a height where it starts snowing in early fall, but the mountain peaks protect it from the strong winds that can make other places like Murren, a bit difficult during cold climatic conditions. You wake up and go for a walk along the villages. Stop at the local coffee shop to grab nice, fresh bakeries, which are probably made by the same guys that run the cliff-jumping ski tours. The freshest air you will ever breathe. The cow bells. The oxygen-less bike rides. The delicious cheese-based cuisine. And the incredible panorama that constantly makes you feel like you're sitting in a crystal snow ball and a giant is about to shake it up.
+
+The place got me thinking of where I would like to spend the last days of my life if I ever got to a old age where my sole pleasure would be to wake up to the scent of fresh mint haze near the snow-capped mountains of the Bernese Oberland. But as long as I still have my blood flowing, this place will be a playground. They actually call it 'Alpinist's Playground'. Whether you decide to climb the massive rock wall known worldwide as the Eiger (Ogre in Swiss German) or trek the tallest mountain in the vicinity, the Jungfrau (Damsel in S.G.), there are a thousand and one challenges to make a DIY addict go crazy. Grab a zip line. Jump on a snowboard. Dive off a cliff with a bat suit. Or light up 4,000 meters high at Europe's highest rail station. The heights are the pit stops of Interlaken and its neighboring towns. And adrenaline is your best friend!
