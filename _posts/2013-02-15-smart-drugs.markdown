@@ -28,6 +28,4 @@ Biohacking is not a science or a medical pursuit or even a new field. It is a se
 
 Put it into perspective. Imagine reading of the enormous raging mammoths being chased by RedBull-spiked Neanderthals. Smart drugs offer the same leap in immediate evolution adaptable to the environment that we live in today, in the 21st Century, not in the Paleolithic age. We have the right to become curious about the untapped regions of the brain that when accurately activated, could create the phenomenon known to math geniuses and computer wizards as unleashing your brain. Whole other game!
 
-
-
 <img src="http://ubersapiensdotcom.files.wordpress.com/2013/02/nootropics-lucid.jpg">

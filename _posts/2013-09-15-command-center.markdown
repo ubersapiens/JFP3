@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Command Center"
+date:   2013-09-15 18:35:04
+categories: jekyll update
+---
+I stopped reading the Financial Times and watching CNN because I noticed that as much as media might inform you of what’s happening, unless you surgically filter what you are interested in, the Murdochs of the world will play puppet games with your perspective. That is how Twitter and Co. disrupted nations into launching the Arab Spring. People turned off Gov TV and recurred to the writers, the bloggers, the undergrounders and the activists to lift Big Brother’s media brainwash. Food prices, corruption and intelligence were some of the elements that dragged entire countries into rebellion. Behind the hurricane was a kid in a black hoodie wearing V for Vendetta mask.
+
+That kid gave rise to a legion of cave dwelling keystrokers who utilized an Anonymous flag to Crusade against a world of injustice. Taking down every major credit card provider in the planet who embargoed WikiLeaks. Dismantling a major Mexican drug trafficking operation through digital counterterrorism. These are but a few of the things that a few intelligent minds with an Internet connection were capable of pulling off. But this group of vigilantes has not only sent a ‘stealing is bad’ message to everyone in the 1% and exposed Qaddafi’s band of brothers (tanned EU leaders) to everyone, it has also showed every single person in the 21st Century that you can control the world from your room.
+
+The renaissance of hackers, after years in the underground, has perfectly timed the arrival of the digital tsunami. The last glimpse I had of this surging alternative culture was in 1999, when I was around 14. We were taught to type fast in school and to utilize very basic programming languages to learn how to give the machine a simple set of instructions. Some became more interested in the subject and began exploring the computer more. At some point I remember sitting at 5am looking at an extensive Pascal code that I had finished writing and was ready to be tested. I compiled and ran the program. The result created one of the biggest adrenaline rushes in my life. I had created a script that linked with an opened executable in another computer that allowed me to open/close the CD ROM drive and turn off the other computer. It was a feeling completely different to any other feat of accomplishment I had experienced. You could disrupt people’s lives with a few lines of code.
+
+“With great power comes great responsibility” might sound more fitting for a spider-bitten superhero, but the potential impact that a kid sitting in his hacking command center could inflict could range from cataclysmic disaster to historic game changer. We are moving rapidly towards a life dependent on machines. In the future, the world will be dominated by those who can control the machines. Why? Because it is the only way that we can insure ourselves that the machines do not end up controlling us. Learn to code.
+
+Picture billions sitting in front of their screens everyday looking at their Outlooks, their e-banking accounts or their social networks, while hundreds sit in front of their screens looking at you. Be a wolf not a sheep.
+
+<img src="http://lightbulbmanifesto.files.wordpress.com/2012/12/com-x-intro.jpg" style="height:400px; width:auto;">

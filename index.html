@@ -1,22 +1,12 @@
 ---
 layout: default
 ---
-<div class="main">
-  <table>
-    <tr>
-      <td><a href="http://urbanmonkey.herokuapp.com"><img src="/images/urbanmonkey.png"></a></td>
-      <td><a href="http://localhost:4000/jekyll/update/2013/08/16/island-hopping-in-san-blas.html"><img src="/images/backbone.png"></a></td>
-      <td><a href="http://localhost:4000/jekyll/update/2013/07/19/panamaniac.html"><img src="/images/panama.png"></a></td>
-    </tr>
-    <tr>
-      <td><a href="http://localhost:4000/jekyll/update/2013/05/16/trekking-the-bernese-oberland.html"><img src="/images/jungfrau.png"></a></td>
-      <td><a href="/archive.html"><img src="/images/roark.jpg"></a></td>
-      <td><a href="http://localhost:4000/jekyll/update/2013/03/14/life-on-two-wheels.html"><img src="/images/bicycle.png"></a></td>
-    </tr>
-    <tr>
-      <td><a href="http://localhost:4000/jekyll/update/2013/03/01/barefoot-revolution.html"><img src="/images/vibram.png"></a></td>
-      <td><a href="http://localhost:4000/jekyll/update/2013/10/31/yoga-is-good.html"><img src="/images/yoga.png"></a></td>
-      <td><a href="http://localhost:4000/jekyll/update/2013/03/21/ultima-online.html"><img src="/images/uo.jpg"></a></td>
-    </tr>
-  </table>
+<div id="home">
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span id="link"><a href="{{ post.url }}">{{ post.title }}</a></span><span id="date">{{ post.date | date_to_string }}</span></li>
+      <li><span id="excerpt">{{ post.excerpt }}</span></li>
+      <br>
+    {% endfor %}
+  </ul>
 </div>
