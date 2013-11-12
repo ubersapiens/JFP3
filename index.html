@@ -2,6 +2,7 @@
 layout: default
 ---
 <div id="home">
+  <h2>Blog</h2>
   <ul class="posts">
     {% for post in site.posts %}
       <li><span id="link"><a href="{{ post.url }}">{{ post.title }}</a></span><span id="date">{{ post.date | date_to_string }}</span></li>

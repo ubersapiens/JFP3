@@ -101,24 +101,6 @@ div.navigation {
       margin-left: 1em;
       margin-right: 1em;
       
-      .circle {
-        width:40px;
-        height:40px;
-        border-radius:20px;
-        font-size:10px;
-        font-weight: bold;
-        color:#fff;
-        line-height:40px;
-        text-align:center;
-        background:@turquoise;
-        position: relative;
-        top: -15px;
-      }
-      
-      a {
-        text-decoration:none;
-      }
-      
       img {
         height: 40px;
         width: auto;
@@ -156,10 +138,48 @@ div.content {
 /*****************************************************************************/
 
 #home {  
+  margin-top: 50px;
+  
+  .work, .projects {
+    p {
+    text-align:justify;
+    }
+    
+    a {
+      text-decoration: none;
+    }
+  }
+  
+  .photography {
+    p {
+      text-align: center;
+      font-style: italic;
+    }
+  }
+  
   h1 {
-    margin-top: 60px;
     color: @turquoise;
   }  
+  
+  h2 {
+    color: @turquoise;
+    font-size: 50px;
+    font-weight: 500;
+  }
+  
+  p {
+    font-size:18px;
+    
+    &.meta {
+      font-size: 24px;
+    }
+  }
+  
+  span#focus {
+    color: @turquoise;
+    font-weight: bold;
+  }
+  
   a.back img {
     height: 80px;
     width: auto;
@@ -169,6 +189,8 @@ div.content {
     left: 0;
     right: 0;
     bottom: 0;
+    margin-top:15px;
+    margin-bottom:5px;
   }
   
   img#tiger {
@@ -181,7 +203,18 @@ div.content {
     border: 3px solid @turquoise;
     height:300px; 
     width:auto;
-    margin-bottom:10px;
+  }
+  
+  img#picture {
+    display:block; 
+    margin: auto; 
+    top: 0; 
+    left: 0; 
+    right: 0; 
+    bottom: 0;
+    border: 3px solid @turquoise;
+    height:auto; 
+    width:700px;
   }
   
   ul.posts {
@@ -214,40 +247,6 @@ div.content {
       color: @turquoise;
     }
     
-  }
-}
-
-.container {
-  height: auto;
-  margin-top:50px;
-  
-  h2 {
-    color: @turquoise;
-    font-size: 50px;
-    font-weight: 500;
-  }
-  
-  p {
-    font-size: 18px;
-    
-    &.meta {
-      font-size: 24px;
-    }
-  }
-  
-  a.back {
-    margin-left: 340px;
-    
-    img {
-      height: 80px;
-      width: auto;
-      display: block;
-      margin: auto;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-    }
   }
 }
 
